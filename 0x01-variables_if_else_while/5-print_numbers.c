@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 /**
  * main - main block
  * Description: Use `putchar` to print all letters but the letter 'q' and 'e'.
