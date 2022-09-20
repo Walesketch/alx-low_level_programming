@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _puts - prints string
  * @str: string
@@ -16,5 +17,4 @@ i++;
 }
 
 _putchar('\n');
-}
-
+} 
